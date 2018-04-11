@@ -1,0 +1,23 @@
+h1 {
+  color: blue;
+  font-size: 45px;
+}
+p {
+  color: darkred;
+}
+
+tr, th, td {
+  border: 2px solid blue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #98ff98;
+}
+
+li {
+  float: left;
+  padding: 16px;
+}
